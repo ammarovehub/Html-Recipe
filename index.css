@@ -29,4 +29,7 @@ h3 {
 
 footer p {
     margin: 0;
+    display: flex;
+    justify-content: space-between;
+    flex: 5;
 }

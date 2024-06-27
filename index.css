@@ -1,4 +1,10 @@
 /* recipe styling */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0a9a9;
+}
+
 figure img {
     margin: 0;
     height: 350px;
@@ -6,7 +12,6 @@ figure img {
 
 .recipe-description {
     padding: 20px;
-    background: #fff;
     margin: 20px 0;
 }
 
@@ -20,4 +25,8 @@ h2 {
 
 h3 {
     color:#1e1a42;
+}
+
+footer p {
+    margin: 0;
 }
